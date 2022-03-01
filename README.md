@@ -1,2 +1,2 @@
 # Gitcoin-CC-Bridge
-Cordless Conduct bounty 
+Codeless Conduct bounty 
